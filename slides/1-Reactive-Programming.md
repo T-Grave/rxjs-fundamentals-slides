@@ -162,4 +162,4 @@ baseScore.next(8);
 
 ## Exercises
 
-- [Imperative vs Functional array handling](https://codesandbox.io/s/rxjs-fundamentals-exercise-1-functional-arrays-3l867) - 15m
+- [Imperative vs Functional array handling](https://codesandbox.io/s/rxjs-fundamentals-exercise-1-functional-arrays-3l867)

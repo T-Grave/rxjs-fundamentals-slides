@@ -98,9 +98,9 @@ subscription.unsubscribe();
 
 ## Exercises
 
-- [Promise vs Observable](https://codesandbox.io/s/rxjs-fundamentals-exercise-2-promises-observables-8qret) - 15m
-- [Start and stop the timer](https://codesandbox.io/s/rxjs-fundamentals-exercise-3-start-stop-timer-97tx6) - 15m
-- [Create your own HTTP Observable](https://codesandbox.io/s/rxjs-fundamentals-exercise-5-create-observable-olczg) - 25m
+- [Promise vs Observable](https://codesandbox.io/s/rxjs-fundamentals-exercise-2-promises-observables-8qret)
+- [Start and stop the timer](https://codesandbox.io/s/rxjs-fundamentals-exercise-3-start-stop-timer-97tx6)
+- [Create your own HTTP Observable](https://codesandbox.io/s/rxjs-fundamentals-exercise-4-create-observable-olczg)
 
 ## Live Demo
 

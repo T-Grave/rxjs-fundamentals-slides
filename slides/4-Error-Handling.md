@@ -70,10 +70,6 @@ const getBooks$ = fromFetch("https://example.com/api/books").pipe(
 
 ## Exercises
 
-- [XXX: Catch & Replace]()
-- [XXX: Catch & Rethrow]()
-- [XXX: Catch & Retry]()
-
-## Live Demo
-
-- [Error Handling](https://codesandbox.io/s/rxjs-error-handling-example-6qcnu)
+- [XXX: Catch & Replace](https://codesandbox.io/s/rxjs-fundamentals-exercise-9-catch-and-replace-6qcnu)
+- [XXX: Catch & Rethrow](https://codesandbox.io/s/rxjs-fundamentals-exercise-10-catch-and-rethrow-0hd2x)
+- [XXX: Catch & Retry](https://codesandbox.io/s/rxjs-fundamentals-exercise-11-catch-and-retry-oy7it)

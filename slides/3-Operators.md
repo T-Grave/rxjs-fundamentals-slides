@@ -119,12 +119,10 @@ Mapping to inner observables.
 
 ## Exercises
 
-- [XXX: Basic Operators](https://codesandbox.io/s/rxjs-fundamentals-exercise-6-basic-operators-eprth)
-- [XXX: Advanced Operators](https://codesandbox.io/s/rxjs-fundamentals-exercise-6-basic-operators-eprth)
-- [Create your own re-usable operator](https://codesandbox.io/s/rxjs-fundamentals-exercise-9-reusable-operators-yjjew)
-- [XXX: Stop Watch]()
-- [Fetch Rick & Morty episode/character lists](https://codesandbox.io/s/rxjs-fundamentals-exercise-8-fetch-episodes-hkegs)
-- [XXX: Look Ahead Input]()
+- [Basic Operators](https://codesandbox.io/s/rxjs-fundamentals-exercise-5-basic-operators-dp1p9)
+- [Create your own re-usable operator](https://codesandbox.io/s/rxjs-fundamentals-exercise-6-reusable-operators-yjjew)
+- [Fetch Rick & Morty episode/character lists](https://codesandbox.io/s/rxjs-fundamentals-exercise-7-fetch-episodes-hkegs)
+- [Type Ahead Episodes](https://codesandbox.io/s/rxjs-fundamentals-exercise-8-typeahead-71hpn)
 
 ## References
 

@@ -28,11 +28,6 @@ subject.subscribe();
 | BehaviourSubject | Subject with a current value              |
 | AsyncSubject     | Emits only the last value before complete |
 
-## Exercises
-
-- [XXX: ReplaySubject]()
-- [XXX: AsyncSubject]()
-
 ## Live Demo
 
-- [XXX: Subjects]()
+- [Subjects](https://codesandbox.io/s/rxjs-fundamentals-demo-wzb0y)
